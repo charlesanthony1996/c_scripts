@@ -3,7 +3,7 @@
 #include <time.h>
 #include <math.h>
 
-#define N 512
+#define N 2048
 
 int main(void) {
     float *A = malloc(N * N * sizeof(float));
